@@ -1,5 +1,4 @@
 #--------------CONFIRMATORY FACTOR ANALYSIS----------------------------#
-# Dropbox\Active Faculty\Hyde, S_Den_Bus\Workers with ADHD_Fall 2020
 # 11-24-2020
 # EA
 #
